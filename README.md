@@ -33,3 +33,11 @@ From Wikipedia:
 ## *Tests*
 
 * [Test262 Report](https://test262.report/) is a tool for people who write JavaScript programs for web browsers and node.js to learn about implementation interoperability. This report is backed by comprehensive specification-conformance tests. This data-driven approach to interoperability reporting sets Test262 Report apart from traditional compatibility tables.
+
+## Other
+
+Need to be added:
+
+* W. H. Li, D. R. White, and J. Singer. JVM-hosted Languages: They Talk the Talk, but Do They Walk the Walk? In Proc. of PPPJ, pages 101–112. ACM, 2013. doi: 10.1145/2500828.2500838.
+* A. Sarimbekov, A. Podzimek, L. Bulej, Y. Zheng, N. Ricci, and W. Binder. Characteristics of Dynamic JVM Languages. In Proc. of VMIL, pages 11–20. ACM, 2013. doi: 10.1145/2542142.2542144.
+* Stefan Marr, Benoit Daloze, Hanspeter Mössenböck. 2016. Cross-Language Compiler Benchmarking: Are We Fast Yet? In Proceedings of the 12th Symposium on Dynamic Languages (DLS '16). ACM.
